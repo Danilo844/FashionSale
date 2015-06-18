@@ -1,0 +1,193 @@
+body{
+background: url('img/27.jpg')no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+#titulo{
+  font-family: aharoni !important;
+  font-size: 48px !important;
+  color: black !important;
+
+}
+#Subtitulo{
+  font-family: aharoni !important;
+  font-size: 28px !important;
+  color: black !important;
+  position: absolute !important;
+  top:25px !important;
+  left:699px !important;
+  margin-left:-540px !important;
+}
+.rmm {
+	background-color: #F0F8FF;	
+	margin:0 auto !important;
+	text-align: center;
+	top: 5px;
+}
+.rmm ul {
+	display:block;
+	width: 680px;
+	margin:0 auto !important;
+	overflow:hidden;
+	list-style:none;
+}
+#menu {
+	width:1140px;
+	height:40px;
+	margin: top;
+	border-radius:7px;
+}
+#menu ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	line-height: normal;
+	margin-left: 600px;
+}
+#menu li {
+	display: inline;
+	text-align: center;
+}
+#menu a {
+	display: block;
+	float: left;
+	height:40px;
+	margin-right: 2px;
+	padding: 15px 20px 0px 20px;
+	text-decoration: none;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 13px;
+	font-weight: bold;
+	color: black;
+	font-family: aharoni !important;
+	border-radius:7px;
+}
+#menu a:hover{
+	background: black;
+	color: #F0F8FF;
+	border-radius:7px;
+}
+
+#jumbo{
+	background-color: #F0F8FF;
+}
+#titNot{
+  font-family: aharoni !important;
+  font-size: 22px !important;
+  color: black;
+  text-align: center;
+
+}
+#not{
+  font-family: aharoni !important;
+  font-size: 20px !important;
+  color: black;
+}
+#titLogin{
+  font-family: aharoni !important;
+  font-size: 30px !important;
+  color: black !important;
+}
+#enlace{
+	color: black;
+	font-family: aharoni !important;
+}
+#Prestablecer{
+	color: black;
+	font-family: aharoni !important;
+}
+.Prestablecer{
+	color: black;
+	font-family: aharoni !important;
+	font-size: 22px;
+}
+#btn{
+	font-size: 17px !important;
+	height: 30px;
+	font-family: aharoni !important;
+	border-radius:10px;
+	background: white;
+	color: black;
+	border-color:black;
+	border-width: 1px;
+	padding: 5px 10px 10px 10px;
+}
+.btn{
+	font-size: 17px !important;
+	height: 30px;
+	font-family: aharoni !important;
+	border-radius:10px;
+	background: white;
+	color: black;
+	border-color:black;
+	border-width: 1px;
+	margin-left: auto;
+  	margin-right: auto;
+  	padding: 5px 10px 10px 10px;
+}
+#cuaRegistrar{
+	background-color: #F0F8FF;
+	height: 40px;
+}
+#letra{
+	font-family: aharoni;
+	font-size: 18px;
+}
+
+.form-input{
+  width: 250px;
+  height: 32px;
+  padding: 6px 6px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 18px;
+  border-radius: 5px;
+}
+
+#vinculos{
+	font-family: aharomi;
+	font-size: 40px;
+	font-weight: bold;
+	color: black;
+	border: 1px black solid;
+	border-radius: 10px;
+	padding: 10px 15px 10px 15px;
+	background-color: #F0F8FF;
+}
+.btnO{
+	font-size: 20px !important;
+	height: 40px;
+	font-family: aharoni !important;
+	border-radius:10px;
+	background: white;
+	color: black;
+	border-color:black;
+	border-width: 1px;
+	margin-left: auto;
+  	margin-right: auto;
+}
+
+.control {
+  display: block;
+  width: 220px;
+  height: 32px;
+  padding: 6px 6px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 15px;
+  line-height: 1.42857143;
+  color: #555;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #ccc;
+  border-radius: 7px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+  -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+       -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+          transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
